@@ -1,0 +1,5 @@
+Reading config file: "/home/xsp/Arceos-crates/memtest/platforms/riscv64-qemu-virt.toml"
+Generating config file: /home/xsp/Arceos-crates/memtest/target/debug/build/axconfig-134702b55e16ed8e/out/config.rs
+cargo:rerun-if-changed=/home/xsp/Arceos-crates/memtest/platforms/riscv64-qemu-virt.toml
+cargo:rerun-if-env-changed=AX_PLATFORM
+cargo:rerun-if-env-changed=AX_SMP

@@ -8,5 +8,3 @@ members = [
 [profile.release]
 lto = true
 
-[patch.crates-io]
-crate_interface = { path = "crates/crate_interface" }

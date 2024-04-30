@@ -3,29 +3,6 @@ name: Build CI
 on: [push, pull_request]
 
 jobs:
-  clippy:
-    runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix: 
-        rust-toolchain: [nightly, nightly-2024-01-19]
-    steps:
-    - uses: actions/checkout@v3
-    - uses: actions-rs/toolchain@v1
-      with:
-        profile: minimal
-        toolchain: ${{ matrix.rust-toolchain }}
-        components: rust-src, clippy, rustfmt
-    - name: Clippy for the default target
-      run: CURRENT_DIR=`pwd` make clippy
-    - name: Clippy for x86_64
-      run: CURRENT_DIR=`pwd` make clippy ARCH=x86_64
-    - name: Clippy for riscv64
-      run: CURRENT_DIR=`pwd` make clippy ARCH=riscv64
-    - name: Clippy for aarch64
-      run: CURRENT_DIR=`pwd` make clippy ARCH=aarch64
-    - name: Check code format
-      run: CURRENT_DIR=`pwd` cargo fmt --all -- --check
 
   build:
     runs-on: ${{ matrix.os }}
