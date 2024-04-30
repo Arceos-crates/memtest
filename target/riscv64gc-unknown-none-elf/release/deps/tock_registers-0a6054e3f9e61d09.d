@@ -1,0 +1,11 @@
+/home/xsp/Arceos-crates/hellotest/target/riscv64gc-unknown-none-elf/release/deps/libtock_registers-0a6054e3f9e61d09.rmeta: /home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/lib.rs /home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/fields.rs /home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/interfaces.rs /home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/macros.rs /home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/local_register.rs
+
+/home/xsp/Arceos-crates/hellotest/target/riscv64gc-unknown-none-elf/release/deps/libtock_registers-0a6054e3f9e61d09.rlib: /home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/lib.rs /home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/fields.rs /home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/interfaces.rs /home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/macros.rs /home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/local_register.rs
+
+/home/xsp/Arceos-crates/hellotest/target/riscv64gc-unknown-none-elf/release/deps/tock_registers-0a6054e3f9e61d09.d: /home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/lib.rs /home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/fields.rs /home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/interfaces.rs /home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/macros.rs /home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/local_register.rs
+
+/home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/lib.rs:
+/home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/fields.rs:
+/home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/interfaces.rs:
+/home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/macros.rs:
+/home/xsp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tock-registers-0.8.1/src/local_register.rs:
